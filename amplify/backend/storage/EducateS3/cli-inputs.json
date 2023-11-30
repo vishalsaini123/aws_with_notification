@@ -1,0 +1,17 @@
+{
+  "resourceName": "EducateS3",
+  "policyUUID": "2b639e35",
+  "bucketName": "image-pdf-picker14605-dev",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}
